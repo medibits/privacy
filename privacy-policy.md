@@ -78,6 +78,9 @@ We collect information from your device in some cases. The information will be u
 ### Children’s Privacy  
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions. However, there could be a requirement of uploading of medical records of children below age of 13.
 
+### Content
+All the content/information provided by Medibits app including diagnostic vitals, diseases etc. has been curated from the authentic sources and have been reviewed but Medibits does not take any responsibility for the accuracy of the content. Users are advised to take this as a suggestive content and should take guidance from their family doctor, medical practioner or healthcare provider before applying anything which is mentioned or is indicative.
+
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
